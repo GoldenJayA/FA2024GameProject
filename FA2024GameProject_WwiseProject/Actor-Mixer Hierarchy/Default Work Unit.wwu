@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{86DF13C8-7604-4A62-A693-1DEDD36DF28B}" SchemaVersion="119">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{86DF13C8-7604-4A62-A693-1DEDD36DF28B}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Test_sound" ID="{551BB1E8-9990-44EC-A820-04E7F7981019}" ShortID="881713033">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-17</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{EB7195BF-143A-4CBC-8812-4C7663BF93D3}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{CF8B381F-7515-4576-916F-E0DC0C246A4B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="first_bounce_2" ID="{B28263B0-FDCC-42E4-B930-3F41CB927AE4}">
+							<Language>SFX</Language>
+							<AudioFile>first_bounce_2.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="421330154"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="first_bounce_2" ID="{B28263B0-FDCC-42E4-B930-3F41CB927AE4}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
