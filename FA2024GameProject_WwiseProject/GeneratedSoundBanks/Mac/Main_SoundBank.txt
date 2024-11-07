@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3187507146	Play_Test			\Default Work Unit\Play_Test	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	421330154	Test_sound	C:\Users\angel\OneDrive\Desktop\Grad Fall 2024\Game Audio Final\Github Rep Game Location\FA2024GameProject\FA2024GameProject_WwiseProject\.cache\Mac\SFX\first_bounce_2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test_sound		36672096
+

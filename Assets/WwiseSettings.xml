@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<WwiseSettings>
+    <WwiseProjectPath>../FA2024GameProject_WwiseProject/FA2024GameProject_WwiseProject.wproj</WwiseProjectPath>
+    <SoundbankPath>Audio/GeneratedSoundBanks</SoundbankPath>
+    <CreateWwiseGlobal>true</CreateWwiseGlobal>
+    <CreateWwiseListener>true</CreateWwiseListener>
+    <WwiseInstallationPathWindows>C:\Program Files (x86)\Audiokinetic\Wwise2023.1.8.8601</WwiseInstallationPathWindows>
+    <WwiseInstallationPathMac></WwiseInstallationPathMac>
+</WwiseSettings>
